@@ -1,0 +1,23 @@
+# basic maths operations
+
+# addition
+1+1
+
+#subtraction
+2-1
+
+# multiplication
+2 * 3
+
+#division
+4/2
+
+#Modulus -- finding the remainder (see it as whats the remainder after division) “when I divide a by b, what is left over?”
+3 % 2
+#divide 3 by 2, 2 goes into 3 once, that uses up 2, you have 1 left over
+
+2 % 3
+#The answer is 2: because 3 is bigger than 2, so it cannot go in even once, and the whole 2 is left over as the remainder.
+
+# exponential
+3 ** 2
