@@ -1,4 +1,4 @@
-# basic maths operations
+### basic maths operations ###
 
 # addition
 1+1
@@ -21,3 +21,16 @@
 
 # exponential
 3 ** 2
+
+### Data Types ### 
+
+'Hello World' #String
+
+# numbers #
+45 # integer - whole number both positive & negative
+
+0.45 # float - decimal 
+
+1 + 4x # complex number
+
+True / False # Boolean
